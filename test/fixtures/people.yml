@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  type: MyString
+  name: MyString
+  email: MyString
+  balance: 9.99
+  report_to: 1
+  department_id: 1
+
+two:
+  type: MyString
+  name: MyString
+  email: MyString
+  balance: 9.99
+  report_to: 1
+  department_id: 1
